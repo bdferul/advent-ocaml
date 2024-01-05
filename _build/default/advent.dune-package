@@ -1,0 +1,4 @@
+(lang dune 3.12)
+(name advent)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (d323 d423 d523)))

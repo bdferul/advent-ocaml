@@ -1,0 +1,10 @@
+lib: [
+  "_build/install/default/lib/advent/META"
+  "_build/install/default/lib/advent/dune-package"
+  "_build/install/default/lib/advent/opam"
+]
+bin: [
+  "_build/install/default/bin/d323"
+  "_build/install/default/bin/d423"
+  "_build/install/default/bin/d523"
+]

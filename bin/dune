@@ -1,0 +1,9 @@
+(executables
+ (public_names d323 d423 d523)
+ (names d323 d423 d523)
+ (libraries advent str re core base))
+
+(env
+ (dev
+  (flags
+   (:standard -warn-error -A))))
