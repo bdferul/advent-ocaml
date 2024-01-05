@@ -65,5 +65,4 @@ let part1 =
 open Base
 open Core
 
-let merged_ranges = 
 let () = printf "part 1: %d\n" part1
